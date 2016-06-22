@@ -2,10 +2,15 @@
 
 **Learn to store and access persistent data using MySQL**
 
-|  |  |
-| :------------------ | :--- |
-| **Codio Course Information:** | This unit is published in the [MySQL](https://codio.com/home/courses/560014c49363a210542e9756/?tab=modules) course. |
-| **Stack Information:** | The units in this course use the [StackName]() that you should use if you create a new project from this repo.  |
+<table style="width:100%">
+   <tr>
+    <td>**Codio Course Information**</td>
+    <td>This unit is published in the [MySQL](https://codio.com/home/courses/560014c49363a210542e9756/?tab=modules) course.</td> 
+   </tr>
+   <tr>
+    <td>**Stack Information**</td>
+    <td> The units in this course use the [StackName]() that you should use if you create a new project from this repo.</td> 
+   </tr>
 
 
 <table style="width:100%">
@@ -51,12 +56,12 @@
    </tr>
 
 
-
-
-
-
-|  |  |
-| :------------------ | :--- |
-| **Codio Course Summary:** | To find out more about other Codio courses, click [here](/codiocourses.md)|
-| **Collaborating:** | To find out more about collaborating, click [here](/collaboration.md) |
-
+<table style="width:100%">
+   <tr>
+    <td>**Codio Course Summary**</td>
+    <td>To find out more about other Codio courses, click [here](/codiocourses.md)</td> 
+   </tr>
+   <tr>
+    <td>**Collaborating:**</td>
+    <td>To find out more about collaborating, click [here](/collaboration.md)</td> 
+   </tr>
