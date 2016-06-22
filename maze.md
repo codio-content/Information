@@ -39,4 +39,4 @@
     <td>Learn how to use SQL aggregate functions to manipulate data.</td> 
     <td>[MySQL-Aggregate_functions](https://github.com/codio-content/MySQL-Aggregate_functions)</td>
    </tr>
-</table>
+
