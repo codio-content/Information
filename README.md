@@ -1,10 +1,5 @@
 
-|  |  |
-| :------------------ | :--- |
-| **Codio Course Summary:** | To find out about Codio courses, click [here](/codiocourses.md)|
-| **Collaborating:** | To find out more about collaborating, click [here](/collaboration.md) |
-
-
+- For more information on other Codio Courses, how you can collaborate and other useful information go to the [**Wiki**](https://github.com/codio-content/Information/wiki).
 
 
 
