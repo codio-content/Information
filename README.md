@@ -1,6 +1,6 @@
 ## Codio Content Wiki
 
-For more information on other Codio Courses, how you can collaborate and other useful information go to the [**Wiki**](https://github.com/codio-content/Information/wiki).
+For more information on other Codio Courses, how you can collaborate and other useful information go to the [**Wiki**](https://github.com/codio-content/Information/blob/master/Home.md).
 
 ## License
 
