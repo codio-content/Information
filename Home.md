@@ -1,11 +1,11 @@
 # Content Collaboration Wiki
 
-This Wiki contains information about Codio's own open sourced content. For details on working with this content, please refer to the [Codio documentation](https://codio.com/docs/project/creating/).
+This Wiki contains information about Codio's own open sourced content. For details on working with this content, please refer to the [Codio documentation](https://docs.codio.com/).
 
 All courses and their associated Units can be found
 
 - by clicking on a Course in the pages section on the right hand side
-- by going to this [overview page](https://github.com/codio-content/Information/wiki/An-Overview-of-Codio-Courses)
+- by going to this [overview page](https://github.com/codio-content/Information/blob/master/An-Overview-of-Codio-Courses.md)
 
 # License
 All Codio content is made available under the MIT license. This allows you to use our content for whatever purpose you like and at no cost, as long as
